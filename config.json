@@ -1,0 +1,22 @@
+{
+  "appName": "MCP Test Uygulaması",
+  "version": "1.0.0",
+  "settings": {
+    "theme": "light",
+    "language": "tr",
+    "notifications": true,
+    "autoUpdate": true
+  },
+  "api": {
+    "baseUrl": "https://api.example.com",
+    "timeout": 5000,
+    "retryCount": 3
+  },
+  "features": [
+    "dosya_oluşturma",
+    "repository_yönetimi",
+    "kod_örnekleri",
+    "yapılandırma"
+  ],
+  "createdAt": "2025-03-12"
+}
